@@ -92,7 +92,7 @@ static NSString *ID = @"PYCell";
     // 取消系统自带的分隔线
     self.tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
     
-    NSLog(@"小小测试一下");
+    NSLog(@"小小测试一下试试");
     // 设置样式为自定义
     [self setPyseparatorStyle:PYTableViewCellSeparatorStyleCustomView];
 }
